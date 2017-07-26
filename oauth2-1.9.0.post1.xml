@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns="http://usefulinc.com/ns/doap#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><Project><name>oauth2</name>
+<shortdesc>library for OAuth version 1.9</shortdesc>
+<homepage rdf:resource="http://github.com/joestump/python-oauth2" />
+<maintainer><foaf:Person><foaf:name>Joe Stump</foaf:name>
+<foaf:mbox_sha1sum>aa92b5362fb6e746c775d83d17471a8e1c0bf58d</foaf:mbox_sha1sum></foaf:Person></maintainer>
+<release><Version><revision>1.9.0.post1</revision></Version></release>
+</Project></rdf:RDF>
